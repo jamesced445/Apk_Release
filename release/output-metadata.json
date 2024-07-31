@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "bossda.com",
+  "applicationId": "fox1.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 2,
-      "versionName": "1.1",
-      "outputFile": "bossda.apk"
+      "versionCode": 1,
+      "versionName": "1.0",
+      "outputFile": "fox1.apk"
     }
   ],
   "elementType": "File"
