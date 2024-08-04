@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "fox1.com",
+  "applicationId": "ubet.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1,
+      "versionCode": 11,
       "versionName": "1.0",
-      "outputFile": "fox1.apk"
+      "outputFile": "ubet.apk"
     }
   ],
   "elementType": "File"
