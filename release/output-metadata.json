@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "betmaster.com",
+  "applicationId": "platinum.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 2,
+      "versionCode": 12,
       "versionName": "1.1",
-      "outputFile": "betmaster.apk"
+      "outputFile": "platinum.apk"
     }
   ],
   "elementType": "File"
