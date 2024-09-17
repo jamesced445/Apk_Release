@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "platinum.com",
+  "applicationId": "diamond.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 14,
+      "versionCode": 11,
       "versionName": "1.0",
-      "outputFile": "platinum.apk"
+      "outputFile": "diamond.apk"
     }
   ],
   "elementType": "File"
