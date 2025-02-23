@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "king3.com",
+  "applicationId": "king32.com",
   "variantName": "release",
   "elements": [
     {
@@ -13,7 +13,7 @@
       "attributes": [],
       "versionCode": 13,
       "versionName": "1.2",
-      "outputFile": "3kings.apk"
+      "outputFile": "3kings2.apk"
     }
   ],
   "elementType": "File"
