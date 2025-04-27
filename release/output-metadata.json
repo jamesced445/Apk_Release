@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "king32.com",
+  "applicationId": "king3kent.com",
   "variantName": "release",
   "elements": [
     {
@@ -13,7 +13,7 @@
       "attributes": [],
       "versionCode": 15,
       "versionName": "1.4",
-      "outputFile": "3kings2.apk"
+      "outputFile": "kent.apk"
     }
   ],
   "elementType": "File"
