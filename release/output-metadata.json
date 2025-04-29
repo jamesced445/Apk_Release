@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "king3kent.com",
+  "applicationId": "kmgaming.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 15,
-      "versionName": "1.4",
-      "outputFile": "kent.apk"
+      "versionCode": 12,
+      "versionName": "3.3",
+      "outputFile": "kmgaming.apk"
     }
   ],
   "elementType": "File"
