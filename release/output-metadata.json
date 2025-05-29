@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "kmgaming.com",
+  "applicationId": "spider2.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 13,
-      "versionName": "1.2",
-      "outputFile": "kmgaming.apk"
+      "versionCode": 12,
+      "versionName": "3.3",
+      "outputFile": "spider.apk"
     }
   ],
   "elementType": "File"
