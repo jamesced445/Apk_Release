@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "spider2.com",
+  "applicationId": "king3.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 12,
-      "versionName": "3.3",
-      "outputFile": "spider.apk"
+      "versionCode": 15,
+      "versionName": "1.4",
+      "outputFile": "3kings.apk"
     }
   ],
   "elementType": "File"
