@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "diamond.com",
+  "applicationId": "snow.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 11,
-      "versionName": "1.1",
-      "outputFile": "diamond.apk"
+      "versionCode": 13,
+      "versionName": "1.0",
+      "outputFile": "snow.apk"
     }
   ],
   "elementType": "File"
