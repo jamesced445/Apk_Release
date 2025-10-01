@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "snow.com",
+  "applicationId": "bigboss.com",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 13,
-      "versionName": "1.0",
-      "outputFile": "snow.apk"
+      "versionCode": 15,
+      "versionName": "1.2",
+      "outputFile": "3kBigBoss.apk"
     }
   ],
   "elementType": "File"
